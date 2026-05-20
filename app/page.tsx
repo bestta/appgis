@@ -161,7 +161,7 @@ export default function Home() {
                 </div>
                 <div className="rounded-3xl bg-slate-950/80 p-4 text-white">
                   <p className="text-sm uppercase tracking-[0.2em] text-slate-400">Perhatian</p>
-                  <p className="mt-3 text-sm leading-6 text-slate-200">Pastikan API key Google Maps sudah aktif.</p>
+                  <p className="mt-3 text-sm leading-6 text-slate-200">Setiap perumahan memiliki harga dan tipe yang berbeda-beda berdasarkan geografi & demografi.</p>
                 </div>
               </div>
             </div>
